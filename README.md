@@ -1,4 +1,4 @@
-<h1 align="center">🎬 Movie Data Analysis Project </h1>
+<h1 align="center">🎬 Netflix Movie Data Analysis Project </h1>
 
 ## 📌 Project Overview
 
@@ -11,7 +11,7 @@ The analysis is designed to be easily understandable for both **technical and no
 ## 🗂️ Dataset Description
 
 * The dataset contains approximately **9,000–10,000 movie records**.
-Some columns initially contained incorrect data types and multi-valued categorical fields, making preprocessing a crucial step.
+* The dataset contains information about movies and TV shows available on Netflix, including details such as title, genre, release year, rating, language, poster URL, etc.
 
 ---
 
@@ -81,7 +81,7 @@ After preprocessing, data visualization techniques were applied to answer key an
 
 ---
 
-## 🛠️ How to Run the Project
+## ▶️ How to Run the Project
 
 1. Clone the repository
 2. Install required libraries (`pandas`, `matplotlib`, `seaborn`)
